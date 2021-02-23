@@ -60,6 +60,6 @@ I´m Vinicius Teodoro, i have 21 years old and i love challenges.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeodoro)
 
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusTeodoro)
+<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusTeodoro)-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ViniciusTeodoro.ViniciusTeodoro)
