@@ -8,7 +8,7 @@ I´m Vinicius Teodoro, i have 21 years old and i love challenges.
 
 - 👯 I’m looking to collaborate on OpenSource projects who want to innovate
 
-- Knowledge: </br>
+## Knowledge: </br>
  ### **OS**: </br>
    - ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
    - ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
@@ -47,14 +47,14 @@ I´m Vinicius Teodoro, i have 21 years old and i love challenges.
    - ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)   
    - ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 
-### 📫 How to reach me: </br>
+## 📫 How to reach me: </br>
   ><a href="mailto:viniciusteodoro49@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   ><a href="https://www.linkedin.com/in/viniciusteodorodeoliveira/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-### ⚡ Fun fact:</br>
+## ⚡ Fun fact:</br>
   As a child I was a model and acted on TV Cultura
 
-### ⚡ INTERESTING INFOS ⚡
+## ⚡ INTERESTING INFOS ⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusTeodoro&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeodoro)
