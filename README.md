@@ -61,6 +61,4 @@ I´m Vinicius Teodoro, i have 21 years old and i love challenges.
 
 ![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/834?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusTeodoro)-->
-
 ![Visitor Count](https://profile-counter.glitch.me/{ViniciusTeodoro}/count.svg)
