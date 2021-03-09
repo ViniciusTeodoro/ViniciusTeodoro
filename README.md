@@ -51,7 +51,7 @@ I´m Vinicius Teodoro, i have 21 years old and i love challenges.
   ><a href="mailto:viniciusteodoro49@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
   ><a href="https://www.linkedin.com/in/viniciusteodorodeoliveira/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-## ⚡ Fun fact:</br>
+# ⚡ Fun fact:</br>
   As a child I was a model and acted on TV Cultura
 
 ## ⚡ INTERESTING INFOS ⚡
