@@ -29,6 +29,6 @@ I´m Vinicius Teodoro, i have 24 years old and i love challenges.
   As a child I was a model and acted on TV Cultura
 
 ## ⚡ INTERESTING INFOS ⚡
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusTeodoro&count_private=true&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeodoro)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusTeodoro&count_private=true&show_icons=true&theme=dark&hide_border=true)
 ![Visitor Count](https://profile-counter.glitch.me/{ViniciusTeodoro}/count.svg)
