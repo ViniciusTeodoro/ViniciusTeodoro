@@ -30,9 +30,5 @@ I´m Vinicius Teodoro, i have 24 years old and i love challenges.
 
 ## ⚡ INTERESTING INFOS ⚡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusTeodoro&count_private=true&show_icons=true&theme=dark&hide_border=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusTeodoro)
-
-![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/834?logoColor=white%26project=%26recentMS=0%26showProject=false)
-
 ![Visitor Count](https://profile-counter.glitch.me/{ViniciusTeodoro}/count.svg)
