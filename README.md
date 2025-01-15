@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I´m Vinicius Teodoro, i have 24 years old and i love challenges.
+I´m Vinicius Teodoro, i have 25 years old and i love challenges.
 
-- 🔭 I’m freelancer at <a href="https://www.oplab.com.br">Oplab</a> and working at <a href="https://www.telefonica.com.br/">Telefonica</a>
+- 🔭 I’m teacher at <a href="https://www.fiap.com.br/">FIAP</a> and working at <a href="https://www.telefonica.com.br/">Telefonica</a>
 
 - 🌱 I’m currently learning Pentesting, Machine Learning and Investing Fundamentals
 
